@@ -2,7 +2,7 @@
 
 ## Usage
 
-Putting the function name of `pyautogui` as the first argument, and all the arguments (anything inside the parentheses) as the second.
+Putting the function name of [pyautogui](https://github.com/asweigart/pyautogui) as the first argument, and all the arguments (anything inside the parentheses) as the second.
 
 ### Example
 
