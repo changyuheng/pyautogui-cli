@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyautogui-cli"
-version = "0.0.2"
+version = "0.0.3"
 description = ""
 authors = ["Johann Chang <mr.changyuheng@gmail.com>"]
 readme = "README.md"
