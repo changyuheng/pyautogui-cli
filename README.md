@@ -15,5 +15,5 @@ Putting the function name of `pyautogui` as the first argument, and all the argu
 should be translated as:
 
 ```
-$ pyautogui-cli moveTo "100, 200"
+$ pyautogui moveTo "100, 200"
 ```
